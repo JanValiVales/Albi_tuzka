@@ -1,0 +1,3 @@
+PyYAML>=6.0
+mutagen>=1.45.0
+Pillow>=8.0.0
